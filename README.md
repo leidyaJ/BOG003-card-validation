@@ -26,7 +26,7 @@ Esta aplicación web permite al usuario de HQ HEADPHONES validar la tarjeta cred
 
 El enfoque inicial al trabajar mi primer prototipo con papel y lápiz (blanco y negro) fue crear una pagina solo para la validación de tarjetas.
 
-<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg"   width="300" height="280.3">  <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg"  width="300" height="280.3">  <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
 
 ### feedback con compañeras:
 Al pedir feedback con algunas compañeras se determinó enfocarlo en la validacion de la tarjeta credito o debito cuando se va a relizar la compra de un objeto de una tienda online, en este ejemplo se tratará sobre una tienda de audifonos y el nuevo prototipo fue desarollado en la herramienta de diseño balsamiq, donde se construeyeron las pantallas mostradas a continuación:
