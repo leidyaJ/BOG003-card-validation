@@ -3,9 +3,9 @@
 ## Índice
 
 * [1. Definicion del producto](#1-definición-del-producto)
-* [2. Interfaz de usuario](#2-resumen-del-proyecto)
-* [3. UX diseño de experiencia de usuario](#3-objetivos-de-aprendizaje)
-* [4. script/ archivos](#4-consideraciones-generales)
+* [2. UX diseño de experiencia de usuario](#2-UX-diseño-de-experiencia-de-usuario)
+* [3. Interfaz de usuario](#3-interfaz-de-usuario)
+* [4. script/ archivos](#4-Script/archivos)
 
 ***
 
