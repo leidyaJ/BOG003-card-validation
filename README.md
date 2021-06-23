@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Definición del producto](#1-Definición del producto)
+* [1. Definición del producto](#1-definición del producto)
 * [2. Interfaz de usuario](#2-resumen-del-proyecto)
 * [3. UX diseño de experiencia de usuario](#3-objetivos-de-aprendizaje)
 * [4. script/ archivos](#4-consideraciones-generales)
@@ -10,6 +10,28 @@
 ***
 
 ## 1. Definición del producto
+
+a continuacion se presenta el producto digital elaborado.
+
+### Validador de tarjetas para la tienda HQ HEADPHONES
+
+Esta aplicación web permite al usuario de HQ HEADPHONES validar la tarjeta credito/ debito antes de realizar su compra.
+
+* usuarios: los usuarios son los clientes que dessen realizar la compra de los audifonos 
+* esta herramienta permite comprobar si la tarjeta que estan utilizando el cliente para adquirir el producto es valida.
+
+## 2. UX diseño de experiencia de usuario
+
+El enfoque inicial al trabajar mi primer prototipo con papel y lápiz (blanco y negro) fue crear una pagina para la validación de tarjetas sin  distinción o especificación.
+
+Luego valida esta solución con una compañera (pedir feedback).
+Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un nuevo prototipo usando alguna herramienta para diseño de prototipos (Balsamiq, Figma, Google Slides, etc.) Estos puntos los presentarás en el README.md.
+
+## 3. Interfaz de usuario 
+
+
+Cuáles son los objetivos de estos usuarios en relación con tu producto.
+Cómo crees que el producto que estás creando está resolviendo sus problemas.
 
 El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
 también llamado algoritmo de módulo 10, es un método de suma de verificación,
