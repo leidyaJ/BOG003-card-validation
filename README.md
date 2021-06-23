@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Definicion del producto](#1-definición-del-producto)
+* [1. Definición del producto](#1-definición-del-producto)
 * [2. UX diseño de experiencia de usuario](#2-UX-diseño-de-experiencia-de-usuario)
 * [3. Interfaz de usuario](#3-interfaz-de-usuario)
 * [4. script/ archivos](#4-Script/archivos)
@@ -17,22 +17,37 @@ a continuación se presenta el producto digital elaborado.
 
 Esta aplicación web permite al usuario de HQ HEADPHONES validar la tarjeta credito/ debito antes de realizar su compra.
 
-* usuarios: los usuarios son los clientes que dessen realizar la compra de los audifonos 
-* esta herramienta permite comprobar si la tarjeta que estan utilizando el cliente para adquirir el producto es valida.
+* usuarios: los usuarios son los clientes que deseen realizar la compra de los audifonos 
+* esta herramienta permite comprobar si la tarjeta que esta utilizando el cliente para adquirir el producto es valida o no.
 
 ## 2. [UX diseño de experiencia de usuario](#índice)
 
-###prototipo de papel:
+### prototipo de papel:
 
-El enfoque inicial al trabajar mi primer prototipo con papel y lápiz (blanco y negro) fue crear una pagina para la validación de tarjetas sin  distinción o especificación.
-![myimage-alt-tag](url-to-image)
+El enfoque inicial al trabajar mi primer prototipo con papel y lápiz (blanco y negro) fue crear una pagina solo para la validación de tarjetas.
 
-Luego valida esta solución con una compañera (pedir feedback).
-Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un nuevo prototipo usando alguna herramienta para diseño de prototipos (Balsamiq, Figma, Google Slides, etc.) Estos puntos los presentarás en el README.md.
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg"  width="300" height="280.3">  <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
 
+### feedback con compañeras:
+Al pedir feedback con algunas compañeras se determinó enfocarlo en la validacion de la tarjeta credito o debito cuando se va a relizar la compra de un objeto de una tienda online, en este ejemplo se tratará sobre una tienda de audifonos y el nuevo prototipo fue desarollado en la herramienta de diseño balsamiq, donde se construeyeron las pantallas mostradas a continuación:
 
+* Pantalla inicial
 
-## 3. [Interfaz de usuario] (#índice)
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/pantalla%20inicial.png" width="400">
+
+* pantalla de validación
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validaci%C3%B3n.png" width="400">
+
+* pantalla de validacion exitosa
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta.png" width="400">
+
+* pnatalla de validacion erronea
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta%20copy.png" width="400">
+
+## 3. [Interfaz de usuario](#índice)
 
 
 
@@ -52,7 +67,7 @@ par se les debe multiplicar por dos, si este número es mayor o igual a 10,
 debemos sumar los dígitos del resultado; el número a verificar será válido si
 la suma de sus dígitos finales es un múltiplo de 10.
 
-![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
+![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png =)
 
 ## 2. Resumen del proyecto
 
