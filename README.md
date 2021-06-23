@@ -25,7 +25,7 @@ Esta aplicación web permite al usuario de HQ HEADPHONES validar la tarjeta cred
 ### prototipo de papel:
 
 El enfoque inicial al trabajar mi primer prototipo con papel y lápiz (blanco y negro) fue crear una pagina para la validación de tarjetas sin  distinción o especificación.
-![myimage-alt-tag](https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg) <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg" width="48">
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg" width="100">
 
 Luego valida esta solución con una compañera (pedir feedback).
 Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un nuevo prototipo usando alguna herramienta para diseño de prototipos (Balsamiq, Figma, Google Slides, etc.) Estos puntos los presentarás en el README.md.
