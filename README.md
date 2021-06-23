@@ -9,7 +9,7 @@
 
 ***
 
-## 1. [Definición del producto](#indice)
+## 1. [Definición del producto](#índice)
 
 a continuacion se presenta el producto digital elaborado.
 
