@@ -22,10 +22,10 @@ Esta aplicación web permite al usuario de HQ HEADPHONES validar la tarjeta cred
 
 ## 2. [UX diseño de experiencia de usuario](#índice)
 
-###prototipo de papel:
+### prototipo de papel:
 
 El enfoque inicial al trabajar mi primer prototipo con papel y lápiz (blanco y negro) fue crear una pagina para la validación de tarjetas sin  distinción o especificación.
-![myimage-alt-tag](https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg)
+![myimage-alt-tag](https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg =80x80)
 
 Luego valida esta solución con una compañera (pedir feedback).
 Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un nuevo prototipo usando alguna herramienta para diseño de prototipos (Balsamiq, Figma, Google Slides, etc.) Estos puntos los presentarás en el README.md.
@@ -52,7 +52,7 @@ par se les debe multiplicar por dos, si este número es mayor o igual a 10,
 debemos sumar los dígitos del resultado; el número a verificar será válido si
 la suma de sus dígitos finales es un múltiplo de 10.
 
-![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png =80x80)
+![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png =)
 
 ## 2. Resumen del proyecto
 
