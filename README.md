@@ -28,10 +28,24 @@ El enfoque inicial al trabajar mi primer prototipo con papel y lápiz (blanco y 
 
 <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/lapiz_papel.jpeg"   width="300" height="280.3">  <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
 
-Luego valida esta solución con una compañera (pedir feedback).
-Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un nuevo prototipo usando alguna herramienta para diseño de prototipos (Balsamiq, Figma, Google Slides, etc.) Estos puntos los presentarás en el README.md.
+### feedback con compañeras:
+Al pedir feedback con algunas compañeras se determinó enfocarlo en la validacion de la tarjeta credito o debito cuando se va a relizar la compra de un objeto de una tienda online, en este ejemplo se tratará sobre una tienda de audifonos y el nuevo prototipo fue desarollado en la herramienta de diseño balsamiq
 
+* Pantalla inicial
 
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+
+* pantalla de validación
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+
+* pantalla de validacion exitosa
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+
+* pnatalla de validacion erronea
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
 
 ## 3. [Interfaz de usuario](#índice)
 
