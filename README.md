@@ -33,19 +33,19 @@ Al pedir feedback con algunas compañeras se determinó enfocarlo en la validaci
 
 * Pantalla inicial
 
-<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/pantalla%20inicial.png" width="400">
 
 * pantalla de validación
 
-<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validaci%C3%B3n.png" width="400">
 
 * pantalla de validacion exitosa
 
-<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta.png" width="400">
 
 * pnatalla de validacion erronea
 
-<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/Captura.PNG" width="400">
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta%20copy.png" width="400">
 
 ## 3. [Interfaz de usuario](#índice)
 
