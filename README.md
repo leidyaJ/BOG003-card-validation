@@ -49,7 +49,7 @@ Al pedir feedback con algunas compañeras se determinó enfocarlo en la validaci
 
 La interfaz de usuario esta diseñada para que al navegar por la pagina de la tienda online HQ HEADPHONES y este decida efectuar su compra seleccionando el boton de compra correspondiente al objeto que desea adquirir como se ve en la siguiente imagen, la cual es la pantalla de inicio.
 
-<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/pantalla%20inicialW(1).png" width="400">
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/pantalla%20inicial(1).png" width="400">
 
 una vez es pulsado e boton se procede a realizar la validacion de la tarjeta con la que va a realizar la compra como se observa en la siguiente pantalla.
 
