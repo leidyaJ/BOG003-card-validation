@@ -51,7 +51,7 @@ La interfaz de usuario esta diseñada para que al navegar por la pagina de la ti
 
 <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/pantalla%20inicial(1).png" width="400">
 
-una vez es pulsado e boton se procede a realizar la validacion de la tarjeta con la que va a realizar la compra como se observa en la siguiente pantalla.
+una vez es pulsado e boton se procede a realizar la validacion de la tarjeta con la que va a realizar la compra como se observa en la siguiente pantalla. en ella se debe insertar el número que  se quiere validar. ademas de ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres y no permitir ingresar un campo vacío.
 
 <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validaci%C3%B3n(1).png" width="400">
 
@@ -64,10 +64,7 @@ ya validada la tarjeta se tiene una pantalla en la que se  aprecia el resultado 
  <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta%20copy.png " width="400">
 
 
-Insertar el número que queremos validar.
-Ver el resultado si es válido o no.
-Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
-No debe poder ingresar un campo vacío.
+
 
 ## 4. [script/ archivos](#índice)
 
