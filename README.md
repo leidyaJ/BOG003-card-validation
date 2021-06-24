@@ -43,14 +43,31 @@ Al pedir feedback con algunas compañeras se determinó enfocarlo en la validaci
 
 <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta.png" width="400">
 
-* pnatalla de validacion erronea
 
-<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta%20copy.png" width="400">
 
 ## 3. [Interfaz de usuario](#índice)
 
+La interfaz de usuario esta diseñada para que al navegar por la pagina de la tienda online HQ HEADPHONES y este decida efectuar su compra seleccionando el boton de compra correspondiente al objeto que desea adquirir como se ve en la siguiente imagen, la cual es la pantalla de inicio.
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/pantalla%20inicialW(1).png" width="400">
+
+una vez es pulsado e boton se procede a realizar la validacion de la tarjeta con la que va a realizar la compra como se observa en la siguiente pantalla.
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validaci%C3%B3n(1).png" width="400">
+
+ya validada la tarjeta se tiene una pantalla en la que se  aprecia el resultado obtenido de la validacion con el algorithmo de luhn, para el caso de validacion correcta se tiene la siguiente pantalla, la que se muestra el resultado de la validacion y se procede a continuar  la compra del articulo.
+
+<img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta(1).png" width="400">
+
+ Ahora, para el caso en que la validaciÓn sea incorrecta se  tiene la siguiente pantalla, donde el usuario tiene la posibilidad de validar nuevamente la tarjeta o introducir una nueva tarjeta.
+ 
+ <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validacion%20correcta%20copy.png " width="400">
 
 
+Insertar el número que queremos validar.
+Ver el resultado si es válido o no.
+Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
+No debe poder ingresar un campo vacío.
 
 ## 4. [script/ archivos](#índice)
 
