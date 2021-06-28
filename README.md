@@ -69,7 +69,7 @@ ya validada la tarjeta se tiene una pantalla en la que se  aprecia el resultado 
 ## 4. [script/ archivos](#índice)
 
 ### Scripts / Archivos
-
+vinvule vsc al  git hub
 #### General
 
 ##### `README.md`
