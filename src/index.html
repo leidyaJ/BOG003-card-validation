@@ -10,28 +10,63 @@
 
 
     <header>
-      
+    
     </header>
 
     
-    <section class="firstpag" id="pag1">
-      <div>
-        <h1 aling="center">HQ HEADPHONES</h1>
-      </div>
+      <!-- first page-->
+      <section class="firstPage" id="pag1"> 
+        <h1>  HQ HEADPHONES </h1>
+        <span>        
+          <img src="..\images\blue_headphones.jpg" alt="blue headphones" width="200" height="200">        
+        </span>
+        
+        <span>      
+          <img src="..\images\pink_headpones.jpg" alt="pink headphones" width="200" height="200">
+        </span>
 
-      <figure>
-        <img src="../images/blue_headphone.jpg" alt="blue headphones">
-      </figure>
-      <figure>
-        <img src="" alt="pink headphones">
-      </figure>
-      <img src="" alt="">
-      <figure>
-
-      </figure>
+        <span>     
+          <img src="..\images\black_headphones.jpg" alt="black headphones" width="300" height="200">
+        </span>  
       
-    </section>
-    
+        
+        <span></span>
+
+        <div id="buy">          
+        <span id="buy1"><img src="..\images\buy_car.png"  width="50" height="50" ></span>
+        <span id="buy2"><img src="..\images\buy_car.png"  width="50" height="50"></span>
+        <span id="buy3"><img src="..\images\buy_car.png"  width="50" height="50"></span>
+        </div>
+
+      </section>
+
+      <!-- second page or validation page-->
+      <section class="secondPage" id="pag2"  hidden show>
+        <h4>Para realizar la compra requerimos efectuar el siguiente proceso</h4>
+        <h1> Validación de targeta de crédito</h1>
+        <figure>
+          <img src="..\images\credits_target.jfif" alt="imagen de tarjeta de cretido">
+        </figure>
+        <label>
+          <input type="text" id="cardNumber" minlength="13" maxlength="16"  autocomplete="off" required/>
+        </label>
+        <br>
+        <button type="submit" id="validButton">Validar</button>
+      </section>
+      
+      <!--correct screen-->
+      <section class="correctValidation" id="correctVal" hidden show>
+        <h1>Resultados de validación </h1>
+
+        <button type="submit" id="continueButton">Continuar</button>
+      </section>
+      <!--correct screen-->
+      <section class="incorrectValidation" id="incorrectVal" hidden show>
+        <h1>Resultados de validación </h1>
+        <p>intenta validar nuevamente con otra tarjeta</p>
+        <button type="submit" id="againValidButton">Volver a validar</button>
+      </section>
+   
 
     <footer>
       <p>copyright 2021 by LA. all rights reserved</p>
