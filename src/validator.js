@@ -47,9 +47,7 @@ const validator = {
       //document.write('validación de tarjeta erronea');      
     }
     
-    },//close isValid method
-    
-  
+    },//close isValid method 
 
     // starting the maskify method
   maskify:(creditCardNumber)=>{
@@ -59,11 +57,6 @@ const validator = {
       maskifyNum+="#";// put the symbol # in each one position  of the string, left the last four positions 
     }// end the cycle FOR 
     return maskifyNum + creditCardNumber. substring(longitude-4,longitude);
-  }
-
+  }//close maskify method
 }
-
-
-  
-
 export default validator;

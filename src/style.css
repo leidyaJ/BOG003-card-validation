@@ -1,0 +1,30 @@
+body{background-color: rgb(226, 158, 209);}
+
+H1{color: black;text-align: center;}
+
+footer{position: fixed ;bottom: 0%;}
+#hq1{position: fixed;left: 15%;bottom:30%;display: block; border:2px solid black;}
+#hq2{position: fixed;left: 40%;bottom: 30%;display: block;border:2px solid black;}
+#hq3{position: fixed; right: 15%; bottom: 30%; display: block;border:2px solid black;}
+
+#buy1{position: fixed;left: 20%; bottom: 10%;}
+#buy2{position: fixed;left: 45%; bottom: 10%;}
+#buy3{position: fixed;right: 23%;bottom: 10%;}
+
+.firstPage{border:2px solid black;}
+h2{position: fixed; bottom: 80%;}
+h4{position: fixed; bottom: 74%;}
+#imgcard{  position: fixed; left: 30%; bottom: 28%;border:2px solid black;}
+
+#cardNumber{position: fixed; left: 45%; bottom: 25%;}
+#validButton{position: fixed;left: 48%; bottom: 20%;}
+
+.secondPage{border: 2px solid black;}
+
+/*#correctVal{position:fixed; bottom: 60;}*/
+#tittleCorrect,#tittleinCorrect{text-align: center;padding-top: 40px;}
+#showAns,#showAnsIn{text-align: 40px;padding-top: 40px;padding-left: 30px;padding-right: 30px ; padding-bottom: 40px; background-color: rgb(245, 155, 210);}
+#continueButton,#againValidButton{position: fixed;left: 48%; bottom: 30%}
+.incorrectValidation{border: 3px solid rgb(189, 16, 59);}
+.correctValidation{border: 3px solid rgb(27, 192, 71);}
+

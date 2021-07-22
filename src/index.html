@@ -10,29 +10,26 @@
 
 
     <header>
-    
+      <h1>  HQ HEADPHONES </h1>
     </header>
 
     
       <!-- first page-->
-      <section class="firstPage" id="pag1"> 
-        <h1>  HQ HEADPHONES </h1>
+      <section class="firstPage" id="pag1">    
+    
         <span>        
-          <img src="..\images\blue_headphones.jpg" alt="blue headphones" width="200" height="200">        
+          <img src="..\images\blue_headphones.jpg" alt="blue headphones"  id="hq1" width="200" height="200">        
         </span>
         
         <span>      
-          <img src="..\images\pink_headpones.jpg" alt="pink headphones" width="200" height="200">
+          <img src="..\images\pink_headpones.jpg" alt="pink headphones" id="hq2" width="200" height="200">
         </span>
 
         <span>     
-          <img src="..\images\black_headphones.jpg" alt="black headphones" width="300" height="200">
-        </span>  
-      
-        
-        <span></span>
-
-        <div id="buy">          
+          <img src="..\images\black_headphones.jpg" alt="black headphones"  id="hq3" width="300" height="200">
+        </span>   
+       
+        <div class="carbuy" id="buy">          
         <span id="buy1"><img src="..\images\buy_car.png"  width="50" height="50" ></span>
         <span id="buy2"><img src="..\images\buy_car.png"  width="50" height="50"></span>
         <span id="buy3"><img src="..\images\buy_car.png"  width="50" height="50"></span>
@@ -42,27 +39,31 @@
 
       <!-- second page or validation page-->
       <section class="secondPage" id="pag2"  hidden show>
-        <h4>Para realizar la compra requerimos efectuar el siguiente proceso</h4>
-        <h1> Validación de targeta de crédito</h1>
-        <figure>
-          <img src="..\images\credits_target.jfif" alt="imagen de tarjeta de cretido">
+        <h4>Para realizar la compra requerimos efectuar el siguiente proceso de verificación de su tarjeta de crédito, por favor ingrese el número de su tarjeta</h4>
+        <div id="secondPag">
+        <h2> Validación de tarjeta de crédito</h2>
+        <figure id="imgcard">
+          <img src="..\images\credits_target.jfif" alt="imagen de tarjeta de cretido" width="500" height="270">
         </figure>
         <label>
           <input type="text" id="cardNumber" minlength="13" maxlength="16"  autocomplete="off" required/>
         </label>
-        <br>
+  
         <button type="submit" id="validButton">Validar</button>
+        </div>
       </section>
       
       <!--correct screen-->
       <section class="correctValidation" id="correctVal" hidden show>
-        <h1>Resultados de validación </h1>
-
+        <h1 id="tittleCorrect">Resultados de validación </h1>
+        <p  id="showAns"></p>
         <button type="submit" id="continueButton">Continuar</button>
+        
       </section>
-      <!--correct screen-->
+      <!--incorrect screen-->
       <section class="incorrectValidation" id="incorrectVal" hidden show>
-        <h1>Resultados de validación </h1>
+        <h1 id="tittleinCorrect">Resultados de validación </h1>
+        <p  id="showAnsIn"></p>
         <p>intenta validar nuevamente con otra tarjeta</p>
         <button type="submit" id="againValidButton">Volver a validar</button>
       </section>
