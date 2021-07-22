@@ -71,100 +71,20 @@ ya validada la tarjeta se tiene una pantalla en la que se  aprecia el resultado 
 ### Scripts / Archivos
 vinvule vsc al  git hub
 #### General
+#### resultados del test
 
-##### `README.md`
+ Al realizar el test se obtuvieron los siguientes resultados
 
-Debe contener lo siguiente:
+ <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/resultado_test.PNG " width="400">
 
-* Un título con el nombre de tu proyecto.
-* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
-* La imagen final de tu proyecto.
-* Investigación UX:
-  1. Explicar quiénes son los usuarios y los objetivos en relación con el
-    producto.
-  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
-    usuarios.
-  3. Luego colocarás la foto de tu primer prototipo en papel.
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
-  5. Imagen del prototipo final.
 
-#### Visualmente (HTML y CSS)
 
-Deberás maquetar de forma exacta el prototipo final que hiciste en la herramienta
-de diseño de prototipos que escogiste utilizando HTML y CSS. En este momento elegirás
-los colores, tipo de fuente, etc a usar.
 
-A continuación describimos los archivos que utilizarás:
-
-##### `src/index.html`
-
-En este archivo va el contenido que se mostrará al usuario (esqueleto HTML).
-Encontrarás 3 etiquetas iniciales, las cuales si deseas puedes borrar y empezar
-de cero:
-
-* `<header>`: encabezado de tu proyecto.
-* `<main>`: contenido principal de tu proyecto.
-* `<footer>`: pie de página de tu proyecto.
-
-##### `src/style.css`
-
-Este archivo debe contener las reglas de estilo. Queremos que escribas tus
-propias reglas, por eso NO está permitido el uso de frameworks de CSS
-(Bootstrap, materialize, etc).
 
 #### Funcionalmente (JavaScript - pruebas unitarias)
 
-* La lógica del proyecto debe estar implementada completamente en JavaScript.
-* En este proyecto NO está permitido usar librerías o frameworks, solo
-  JavaScript puro también conocido como Vanilla JavaScript.
-
-Vas a tener 2 archivos JavaScript separando responsabilidades, a continuación
-indicamos qué harás en cada archivo:
-
-##### `src/validator.js`
-
-Acá escribirás las funciones necesarias para que el usuario pueda verificar la
-tarjeta de crédito y ocultar los dígitos de su número de tarjeta.
-Esta función debe ser pura e independiente del DOM.
-
-Para esto debes implementar el **objeto `validator`**, el cual ya se encuentra
-_exportado_ en el _boilerplate_. Este objeto (`validator`) contiene
-dos métodos (`isValid` y `maskify`):
-
-* **`validator.isValid(creditCardNumber)`**: `creditCardNumber` es un `string`
-con el número de tarjeta que se va a verificar. Esta función debe retornar un
-`boolean` dependiendo si es válida de acuerdo al [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn).
-
-* **`validator.maskify(creditCardNumber)`**: `creditCardNumber` es un `string` con
-el número de tarjeta y esta función debe retornar un `string` donde todos menos
-los últimos cuatro caracteres sean reemplazados por un numeral (`#`) o 🐱.
-Esta función deberá siempre mantener los últimos cuatro caracteres intactos, aún
-cuando el `string` sea de menor longitud.
-
-    Ejemplo de uso
-
-    ```js
-    maskify('4556364607935616') === '############5616'
-    maskify(     '64607935616') ===      '#######5616'
-    maskify(               '1') ===                '1'
-    maskify(               '')  ===                ''
-    ```
-
-##### `src/index.js`
-
-Acá escribirás todo el código que tenga que ver con la interacción del DOM
-(seleccionar, actualizar y manipular elementos del DOM y eventos).
-Es decir, en este archivo deberás invocar las funciones `isValid` y `maskify`
-según sea necesario para actualizar el resultado en la pantalla (UI).
-
-##### `test/validator.spec.js`
-
-En este archivo tendrás que completar las pruebas unitarias de las funciones
-`validator.isValid(creditCardNumber)` y `validator.maskify(creditCardNumber)`
-implementadas en `validator.js` utilizando [Jest](https://jestjs.io/es-ES/).
-Tus pruebas unitarias deben dar un 70% en _coverage_ (cobertura),
-_statements_ (sentencias), _functions_ (funciones) y _lines_ (líneas); y un
-mínimo del 50% de _branches_ (ramas).
-
+en el siguientes diagra ma de flujo se describe el funcionamiento mediante el diagrama de flujo expuesto acontinuación.
+https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validator.png
+ <img src="https://github.com/leidyaJ/BOG003-card-validation/blob/master/images/validator.png" width="400">
 ***
 

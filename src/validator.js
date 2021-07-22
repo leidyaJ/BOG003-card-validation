@@ -56,7 +56,7 @@ const validator = {
     for(let i=0;i<longitude-4; i++){
       maskifyNum+="#";// put the symbol # in each one position  of the string, left the last four positions 
     }// end the cycle FOR 
-    return maskifyNum + creditCardNumber. substring(longitude-4,longitude);
+      return maskifyNum + creditCardNumber. substring(longitude-4,longitude);
   }//close maskify method
 }
 export default validator;
